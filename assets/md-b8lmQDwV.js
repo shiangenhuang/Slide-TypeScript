@@ -1,0 +1,13 @@
+import{_ as o}from"./slidev/CodeBlockWrapper.vue_vue_type_script_setup_true_lang-C3u3XIi_.js";import{o as k,b as c,w as n,g as s,d as p,m as h,ad as i,v as d,x as m,T as l}from"./modules/vue-DZBKmgnn.js";import{I as g}from"./slidev/default-DgcvnVLF.js";import{u as f,f as u}from"./slidev/context-BbR2BlHB.js";import"./modules/unplugin-icons-B-aHGt_R.js";import"./index-MokBllkU.js";import"./modules/shiki-B9ns20UJ.js";import"./slidev/TitleIcon.vue_vue_type_script_setup_true_lang-BE5lCulH.js";const P={__name:"slides.md__slidev_40",setup(D){const{$clicksContext:e,$frontmatter:t}=f();return e.setup(),(y,a)=>{const r=o;return k(),c(g,d(m(l(u)(l(t),39))),{default:n(()=>[a[1]||(a[1]=s("p",null,[s("strong",null,"改善範例：")],-1)),p(r,h({},{title:"",ranges:[]}),{default:n(()=>[...a[0]||(a[0]=[s("pre",{class:"shiki shiki-themes vitesse-dark vitesse-light slidev-code",style:{"--shiki-dark":"#dbd7caee","--shiki-light":"#393a34","--shiki-dark-bg":"#121212","--shiki-light-bg":"#ffffff"}},[s("code",{class:"language-diff"},[s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#DBD7CAEE","--shiki-light":"#393A34"}},"// CommonShowAwardPanel.ts")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#FDAEB7","--shiki-light":"#B31D28"}},"- confirmCallback: Function;")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#FDAEB7","--shiki-light":"#B31D28"}},"- startShowCallback: Function;")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#85E89D","--shiki-light":"#22863A"}},"+ confirmCallback: (() => void) | null;")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#85E89D","--shiki-light":"#22863A"}},"+ startShowCallback: (() => void) | null;")]),i(`
+`),s("span",{class:"line"}),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#DBD7CAEE","--shiki-light":"#393A34"}},"// scene_manager.ts")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#FDAEB7","--shiki-light":"#B31D28"}},"- async ToPlatform(target: string = Define.UIPanel.LobbyUI, callback?: Function)")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#85E89D","--shiki-light":"#22863A"}},"+ async ToPlatform(target: string = Define.UIPanel.LobbyUI, callback?: () => void)")]),i(`
+`),s("span",{class:"line"}),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#DBD7CAEE","--shiki-light":"#393A34"}},"// Trace.ts")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#FDAEB7","--shiki-light":"#B31D28"}},"- let doFunc: Function = null;")]),i(`
+`),s("span",{class:"line"},[s("span",{style:{"--shiki-dark":"#85E89D","--shiki-light":"#22863A"}},"+ let doFunc: ((...args: unknown[]) => void) | null = null;")])])],-1)])]),_:1},16)]),_:1},16)}}};export{P as default};
